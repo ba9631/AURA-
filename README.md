@@ -22,3 +22,17 @@
 5. **UI/UX**: Built with Gradio for easy interaction.
 
 ---
+## Create and Activate Virtual Environment (Optional)
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+## Install Dependencies
+```bash
+ pip install -r requirements.txt
+```
+## 📸 Screenshots
+| Input Room Image      | Generated Designs          |
+| --------------------- | -------------------------- |
+| <img width="846" height="604" alt="image" src="https://github.com/user-attachments/assets/f399947e-9de0-4a87-a11e-2af74efb312c" />|  <img width="850" height="615" alt="image" src="https://github.com/user-attachments/assets/fe319f0d-f8ac-4b6a-961e-a9a6c6671adb" />
+ |
